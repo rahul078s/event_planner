@@ -72,9 +72,9 @@ const EventPlanner = () => {
                     <p className='author'>- Emily Johnson</p>
                 </div>
                 {/* Another testimonial block */}
-                <div className='testimonail'>
+                <div className='testimonial'>
                     <p>I use Event Planner for all my corporate events. Ti saves me so much time and effort!</p>
-                    <p className='autohr'>- John Smith</p>
+                    <p className='author'>- John Smith</p>
                 </div>
             </section>
 
